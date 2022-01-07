@@ -1,6 +1,6 @@
 # gini-index-simulator
 This python script simulates a given Gini-index.
-## nstalation
+## Instalation
 * Download the source (by clicking code, and then choosing download ZIP by example)
 * First open <em>setup.bat</em>
 * Now you can run the program by opening <em>simulator.py</em>
