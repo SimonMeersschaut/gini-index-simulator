@@ -12,3 +12,5 @@ This python script simulates a given Gini-index.
 * every bar on the plot is a simulated person. The height of the bar is the percent of money the person has (money of the person/total money)
 * On the left you can see a label: 'error=...'. The value of the error shows how far the simulation is from the requested number
   * If this label is red, the plot is not accurate enough
+## Example Image
+![image](https://user-images.githubusercontent.com/88823772/148575022-1bf791ee-09c3-4f61-ab37-20036807cdc1.png)
